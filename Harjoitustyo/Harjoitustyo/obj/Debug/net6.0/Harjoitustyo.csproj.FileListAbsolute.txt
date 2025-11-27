@@ -1,0 +1,14 @@
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\bin\Debug\net6.0\Harjoitustyo.exe
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\bin\Debug\net6.0\Harjoitustyo.deps.json
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\bin\Debug\net6.0\Harjoitustyo.runtimeconfig.json
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\bin\Debug\net6.0\Harjoitustyo.dll
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\bin\Debug\net6.0\Harjoitustyo.pdb
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.AssemblyInfoInputs.cache
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.AssemblyInfo.cs
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.dll
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\refint\Harjoitustyo.dll
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.pdb
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\Harjoitustyo.genruntimeconfig.cache
+C:\Users\Ryzen\source\repos\Harjoitustyo\Harjoitustyo\obj\Debug\net6.0\ref\Harjoitustyo.dll

@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\pelaaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\pelaaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\potions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\potions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\corruptedking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\corruptedking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\steelsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\steelsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\accursedminion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\accursedminion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\void entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\void entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\minorhealthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\minorhealthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\twilightarchmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\twilightarchmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\marblecolossus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\marblecolossus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\ironarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\ironarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\mithrilarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\mithrilarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\dragonscalearmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\dragonscalearmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\goldensword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\goldensword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|c:\\users\\ryzen\\source\\repos\\harjoitustyo\\harjoitustyo\\gguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D99A7D-8C31-4D4D-A063-9F358969B011}|Harjoitustyo\\Harjoitustyo.csproj|solutionrelative:harjoitustyo\\gguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Program.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Program.cs",
+              "RelativeToolTip": "Harjoitustyo\\Program.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAqwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:36.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Inventory.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Inventory.cs",
+              "RelativeToolTip": "Harjoitustyo\\Inventory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:01:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Potions.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Potions.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Potions.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Potions.cs",
+              "RelativeToolTip": "Harjoitustyo\\Potions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:31:48.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pelaaja.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Pelaaja.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Pelaaja.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Pelaaja.cs",
+              "RelativeToolTip": "Harjoitustyo\\Pelaaja.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwMsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Enemy.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Enemy.cs",
+              "RelativeToolTip": "Harjoitustyo\\Enemy.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:26.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccursedMinion.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\AccursedMinion.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\AccursedMinion.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\AccursedMinion.cs",
+              "RelativeToolTip": "Harjoitustyo\\AccursedMinion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:34:05.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Armor.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Armor.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Armor.cs",
+              "RelativeToolTip": "Harjoitustyo\\Armor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:22:05.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Weapons.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Weapons.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Weapons.cs",
+              "RelativeToolTip": "Harjoitustyo\\Weapons.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:38.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tavara.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Tavara.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Tavara.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Tavara.cs",
+              "RelativeToolTip": "Harjoitustyo\\Tavara.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:37.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Void Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Void Entity.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Void Entity.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Void Entity.cs",
+              "RelativeToolTip": "Harjoitustyo\\Void Entity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:05:07.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorruptedKing.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\CorruptedKing.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\CorruptedKing.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\CorruptedKing.cs",
+              "RelativeToolTip": "Harjoitustyo\\CorruptedKing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:18:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SteelSword.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\SteelSword.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\SteelSword.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\SteelSword.cs",
+              "RelativeToolTip": "Harjoitustyo\\SteelSword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:28.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Utils.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Utils.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Utils.cs",
+              "RelativeToolTip": "Harjoitustyo\\Utils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:37:06.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MinorHealthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\MinorHealthPotion.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\MinorHealthPotion.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\MinorHealthPotion.cs",
+              "RelativeToolTip": "Harjoitustyo\\MinorHealthPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:53:19.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TwilightArchmage.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\TwilightArchmage.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\TwilightArchmage.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\TwilightArchmage.cs",
+              "RelativeToolTip": "Harjoitustyo\\TwilightArchmage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:17:29.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "marblecolossus.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\marblecolossus.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\marblecolossus.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\marblecolossus.cs",
+              "RelativeToolTip": "Harjoitustyo\\marblecolossus.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:09:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ironarmor.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Ironarmor.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\Ironarmor.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\Ironarmor.cs",
+              "RelativeToolTip": "Harjoitustyo\\Ironarmor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:26:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MithrilArmor.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\MithrilArmor.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\MithrilArmor.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\MithrilArmor.cs",
+              "RelativeToolTip": "Harjoitustyo\\MithrilArmor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:28:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DragonScaleArmor.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\DragonScaleArmor.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\DragonScaleArmor.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\DragonScaleArmor.cs",
+              "RelativeToolTip": "Harjoitustyo\\DragonScaleArmor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:59:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GoldenSword.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\GoldenSword.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\GoldenSword.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\GoldenSword.cs",
+              "RelativeToolTip": "Harjoitustyo\\GoldenSword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:20:31.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GGuard.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\GGuard.cs",
+              "RelativeDocumentMoniker": "Harjoitustyo\\GGuard.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\source\\repos\\Harjoitustyo\\Harjoitustyo\\GGuard.cs",
+              "RelativeToolTip": "Harjoitustyo\\GGuard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:01:14.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
